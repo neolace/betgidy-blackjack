@@ -14,7 +14,7 @@
     "request": "^2.51.0",
     "screenfull": "^1.2.1",
     "serve-static": "^1.10.0",
-    "simple-oauth2": "^0.2.1"
+    "simple-oauth2": "^0.8.0"
   },
   "devDependencies": {
     "grunt": "^0.4.5"
